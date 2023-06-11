@@ -1,0 +1,7 @@
+E:\second\Object Oriented Programming\GitTasks\CoffeeShop\CoffeeShop\CoffeeShop\bin\Debug\CoffeeShop.exe.config
+E:\second\Object Oriented Programming\GitTasks\CoffeeShop\CoffeeShop\CoffeeShop\bin\Debug\CoffeeShop.exe
+E:\second\Object Oriented Programming\GitTasks\CoffeeShop\CoffeeShop\CoffeeShop\bin\Debug\CoffeeShop.pdb
+E:\second\Object Oriented Programming\GitTasks\CoffeeShop\CoffeeShop\CoffeeShop\obj\Debug\CoffeeShop.csproj.AssemblyReference.cache
+E:\second\Object Oriented Programming\GitTasks\CoffeeShop\CoffeeShop\CoffeeShop\obj\Debug\CoffeeShop.csproj.CoreCompileInputs.cache
+E:\second\Object Oriented Programming\GitTasks\CoffeeShop\CoffeeShop\CoffeeShop\obj\Debug\CoffeeShop.exe
+E:\second\Object Oriented Programming\GitTasks\CoffeeShop\CoffeeShop\CoffeeShop\obj\Debug\CoffeeShop.pdb
